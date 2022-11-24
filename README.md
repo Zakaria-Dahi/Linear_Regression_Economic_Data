@@ -18,7 +18,11 @@
 - You can choose any city you want among the 52 Spanish cities, and also any of the ecnomic metrics among the 33 available ones, and finally you can pick the year you want to predict from 2003 to 2017.
 
 
-**The Regression You can make**
+**The Regression You can make:**
+You can perform regression by setting the variables city, serie and year in the file main.py using one of the values indicated below for each of these variables.
+
+  - **The years you can pick**
+  You can choose any year from 2003 to 2017.
 
   - **The cities you can pick:**
 
@@ -75,7 +79,7 @@ Valladolid,
 Zamora,
 Zaragoza,
 
-  - **The Metrics you can choose**
+  - **The Metrics you can choose:**
 
 Men Activity Percentage,
 Women Activity Percentage,
