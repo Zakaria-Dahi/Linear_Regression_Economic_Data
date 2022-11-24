@@ -1,18 +1,18 @@
-**About the Repository**
+**About the Repository:**
 
 - This repository provides a linear regression model applied on economic data.
 - The data represent 33 type of economic information related to 52 Spanish cities and recorded over the period of 15 years (2003-2017)
 
-**About the data**
+**About the data:**
 
 - The data are real-life and extracted using the API of the Spanish national insitute of statistcs (https://www.ine.es/).
 - The data have been recorded monthly during 15 years from  2003 to 2017.
 - The data has been used  before in our work "A Machine Learning-Based Approach for Economics-Tailored Applications: The Spanish Case Study"
 
-**About the Metrics**
+**About the Metrics:**
 - Four regression metrics are provide: Mean Absolute Error (MAE), Mean Square Error (MSE), Root Mean Square Error (RMSE), and R sqaure.
 
-**How to use regressor**
+**How to use regressor:**
 
 - The default execution of the regression is to repdict the Men Activity (i.e. employement) for the city of Ceuta during the year 2003.
 - You can choose any city you want among the 52 Spanish cities, and also any of the ecnomic metrics among the 33 available ones, and finally you can pick the year you want to predict from 2003 to 2017.
