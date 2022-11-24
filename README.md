@@ -11,3 +11,58 @@
 
 - The default execution of the regression is to repdict the Men Activity (i.e. employement) for the city of Ceuta during the year 2003.
 - You can choose any city you want among the 52 Spanish cities, and also any of the ecnomic metrics among the 33 available ones, and finally you can pick the year you want to predict from 2003 to 2017.
+
+
+**The cities you can pick:**
+A Coruña
+Albacete
+Alicante
+Almería
+Álava
+Asturias
+Ávila
+Badajoz
+Barcelona
+Vizcaya
+Burgos
+Cáceres
+Cádiz
+Cantabria
+Castellón
+Ceuta
+Ciudad Real
+Córdoba
+Cuenca
+Guipúzcoa
+Girona
+Granada
+Guadalajara
+Huelva
+Huesca
+Baleares
+Jaén
+La Rioja
+Las Palmas
+León
+Lleida
+Lugo
+Madrid
+Málaga
+Melilla
+Murcia
+Navarra
+Ourense
+Palencia
+Pontevedra
+Salamanca
+Santa Cruz de Tenerife
+Segovia
+Sevilla
+Soria
+Tarragona
+Teruel
+Toledo
+Valencia
+Valladolid
+Zamora
+Zaragoza
