@@ -1,9 +1,9 @@
 **About the Repository**
 
-- This reposiotry implements a linear regression on economic data.
+- This repository provides a linear regression on economic data.
 - The data represent 33 type of economic information related to 52 Spanish cities.
-- The data are real-life and extracted using the API of the Spanish national insitute of statistcs.
-- The data have been recorded from  2003 to 2017.
+- The data are real-life and extracted using the API of the Spanish national insitute of statistcs (https://www.ine.es/).
+- The data have been recorded monthly during 15 years from  2003 to 2017.
 - The data has been used  before in our work "A Machine Learning-Based Approach for Economics-Tailored Applications: The Spanish Case Study"
 
 
