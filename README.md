@@ -1,4 +1,3 @@
-# Linear_Regression_Economic_Data
 **About the Repository**
 
 - This reposiotry implements a linear regression on economic data.
