@@ -22,8 +22,8 @@
 You can perform regression by setting the variables city, serie and year in the file main.py using one of the values indicated below for each of these variables.
 
   - **The years you can pick**
-  - 
-  You can choose any year from 2003 to 2017.
+ 
+You can choose any year from 2003 to 2017.
 
   - **The cities you can pick:**
 
