@@ -7,7 +7,7 @@
 
 - The data are real-life and extracted using the API of the Spanish national insitute of statistcs (https://www.ine.es/).
 - The data have been recorded monthly during 15 years from  2003 to 2017.
-- The data has been used  before in our work "A Machine Learning-Based Approach for Economics-Tailored Applications: The Spanish Case Study"
+- The data has been used  before in our work "**A Machine Learning-Based Approach for Economics-Tailored Applications: The Spanish Case Study**"
 
 **About the Metrics:**
 - Four regression metrics are provide: Mean Absolute Error (MAE), Mean Square Error (MSE), Root Mean Square Error (RMSE), and R sqaure.
@@ -19,7 +19,7 @@
 
 
 **The Regression You can Make:**
-You can perform regression by setting the variables city, serie and year in the file main.py using one of the values indicated below for each of these variables.
+You can perform regression by setting the variables city, serie and year in the file '''main.py''' using one of the values indicated below for each of these variables.
 
   - **The Years You Can Pick**
  
