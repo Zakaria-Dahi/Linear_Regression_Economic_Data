@@ -20,7 +20,7 @@
 
 **The Regression You can make**
 
-  **The cities you can pick:**
+  - **The cities you can pick:**
 
 A Coruña, 
 Albacete, 
@@ -75,6 +75,6 @@ Valladolid,
 Zamora,
 Zaragoza,
 
-  **The Mtrics you can choose**
+  - **The Mtrics you can choose**
 
   
