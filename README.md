@@ -75,6 +75,6 @@ Valladolid,
 Zamora,
 Zaragoza,
 
-  - **The Mtrics you can choose**
+  - **The Metrics you can choose**
 
   
