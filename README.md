@@ -19,7 +19,7 @@
 
 
 **The Regression You can Make:**
-You can perform regression by setting the variables city, serie and year in the file '''main.py''' using one of the values indicated below for each of these variables.
+You can perform regression by setting the variables city, serie and year in the file ```main.py``` using one of the values indicated below for each of these variables.
 
   - **The Years You Can Pick**
  
