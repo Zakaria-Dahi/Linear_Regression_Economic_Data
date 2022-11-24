@@ -14,6 +14,7 @@
 
 
 **The cities you can pick:**
+
 A Coruña
 Albacete
 Alicante
