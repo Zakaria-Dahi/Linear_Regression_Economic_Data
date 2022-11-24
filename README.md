@@ -1,6 +1,6 @@
 **About the Repository**
 
-- This repository provides a linear regression on economic data.
+- This repository provides a linear regression model applied on economic data.
 - The data represent 33 type of economic information related to 52 Spanish cities and recorded over the period of 15 years (2003-2017)
 
 **About the data**
@@ -22,6 +22,7 @@
 You can perform regression by setting the variables city, serie and year in the file main.py using one of the values indicated below for each of these variables.
 
   - **The years you can pick**
+  - 
   You can choose any year from 2003 to 2017.
 
   - **The cities you can pick:**
