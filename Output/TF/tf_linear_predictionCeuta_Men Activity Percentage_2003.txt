@@ -1,0 +1,2 @@
+Final testing cost: 1.1973187
+Absolute mean square loss difference: 0.6020447

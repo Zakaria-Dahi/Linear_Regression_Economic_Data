@@ -1,3 +1,0 @@
-The Mean Absolute Error Value is:1.0638271604938059
-The Mean Squared Error is:1.578533572118065
-The Root Mean Squared Error is:1.2563970598970953

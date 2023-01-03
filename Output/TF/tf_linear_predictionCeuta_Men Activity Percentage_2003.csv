@@ -1,0 +1,10 @@
+epoch:,200,cost function:,188.80577,W:,7.452648,B:,31.246286
+epoch:,400,cost function:,59.902157,W:,4.294096,B:,46.778896
+epoch:,600,cost function:,19.280691,W:,2.5209935,B:,55.498363
+epoch:,800,cost function:,6.479625,W:,1.5256351,B:,60.393177
+epoch:,1000,cost function:,2.4456697,W:,0.9668804,B:,63.140926
+epoch:,1200,cost function:,1.1744483,W:,0.65321773,B:,64.6834
+epoch:,1400,cost function:,0.77383816,W:,0.4771349,B:,65.54932
+epoch:,1600,cost function:,0.6475984,W:,0.37829247,B:,66.035385
+epoch:,1800,cost function:,0.60781413,W:,0.32280043,B:,66.30827
+epoch:,2000,cost function:,0.595274,W:,0.29165024,B:,66.461464
