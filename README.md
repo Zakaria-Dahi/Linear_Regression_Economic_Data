@@ -1,5 +1,5 @@
 
-**Programmer:** Zakaria Abdelmoiz DAHI, University of Malaga, Spain. :shipit:
+**Programmer:** Zakaria Abdelmoiz DAHI :shipit:
 
 ## **About the Repository:**
 
